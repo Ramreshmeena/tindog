@@ -18,7 +18,7 @@ h3 {
 }
 
 p {
-    color: #8f8f8f;
+    color: #1F1F0C;
 }
 
 /* Title section */
@@ -200,7 +200,6 @@ p {
     text-align: center;
 }
 
-
 .pricing-column {
     padding: 7% 15%;
 }
@@ -210,4 +209,5 @@ p {
     #pricing {
         padding: 3% 20%;
     }
+    
 }
