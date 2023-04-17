@@ -208,6 +208,6 @@ p {
 @media (max-width: 768px) {
 
     #pricing {
-        padding: 100px;
+        padding: 7% 25%;
     }
 }
