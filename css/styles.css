@@ -200,15 +200,14 @@ p {
     text-align: center;
 }
 
+
 .pricing-column {
     padding: 3% 2%;
-    margin: 3%
 }
 
-@media (max-width: 768px) {
+@media (max-width: 650px) {
 
     #pricing {
-        padding: 3% 20%;
+        padding: 60px;
     }
-    
 }
