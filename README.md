@@ -9,7 +9,7 @@ In addition to helping users connect with other dog lovers, Tindog also provides
 
 Overall, Tindog is an excellent platform for dog lovers looking to meet new friends, socialize their dogs, and learn more about the world of pet care.
 
-# Tools Used to develop the website
+# Tools used to develop the website
 
 * HTML 5
 * CSS 3
