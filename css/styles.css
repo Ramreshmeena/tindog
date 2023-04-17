@@ -205,9 +205,9 @@ p {
     padding: 3% 2%;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 768px) {
 
     #pricing {
-        padding: 60px;
+        padding: 100px;
     }
 }
